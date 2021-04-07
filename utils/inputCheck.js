@@ -29,3 +29,4 @@ module.exports = function(obj, ...props) {
 //   ->   industry_connected BOOLEAN NOT NULL
 //   -> );
 // SELECT * FROM candidates;
+// ALTER TABLE candidates ADD COLUMN party_id INTEGER;
